@@ -1,0 +1,7 @@
+{
+  "fonts": [
+    { "id": "f1", "font": "sans-serif" },
+    { "id": "f2", "font": "Tinos" },
+    { "id": "f3", "font": "Lucida Console" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "colours": [
+    { "id": "c1", "color": "#000", "backgroundColor": "#ffffff" },
+    { "id": "c2", "color": "green", "backgroundColor": "white" },
+    { "id": "c3", "color": "blue", "backgroundColor": "white" },
+    { "id": "c4", "color": "grey", "backgroundColor": "white" },
+    { "id": "c5", "color": "orange", "backgroundColor": "white" },
+    { "id": "c6", "color": "purple", "backgroundColor": "white" },
+    { "id": "c7", "color": "#708090", "backgroundColor": "white" },
+    { "id": "c8", "color": "#708090", "backgroundColor": "#1a001a" }
+  ]
+}
