@@ -1,3 +1,11 @@
+A proof of concept to demonstrate how to use styled-components to dynamically generate css and save it locally in a cookie.
+
+The idea came to me to build websites with added accessibility, as the web should be inclusive for everyone. Users with sight or reading difficulties may prefer different font colours and or fonts to aid them in reading content.
+
+The user would come to the website and pick how they prefer to view content. When they next come back to the website, their preferred theme will be loaded automatically.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
